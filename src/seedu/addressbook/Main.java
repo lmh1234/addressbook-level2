@@ -1,5 +1,5 @@
 package seedu.addressbook;
-/** Test */
+
 import seedu.addressbook.data.person.ReadOnlyPerson;
 import seedu.addressbook.storage.StorageFile.*;
 
